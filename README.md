@@ -7,6 +7,14 @@
 
 ![main](http://attach.alruabye.net/familyfinder/register.png)
 
+#To understand  this code you need to know
+###1- C# basic to OOP
+###2-  web services in C# .
+###3- ASP.NET in C# .
+###4- SQL server
+###5- Java
+###6- Android
+
 #Configurations
 ##1- Run "family_finder_script.sql" script on SQl server database
 ##2- Change connection string in Web.Config in FlWebServices to new one that you have.
