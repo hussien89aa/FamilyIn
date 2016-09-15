@@ -12,4 +12,3 @@
 ##2- Change connection string in Web.Config in FlWebServices to new one that you have.
 ##3- Update server url (WebURL) in Family finder in GlobalClass.java 
 ##4- update MAP_API keys in string.xml ang google_map.xml files to your own for Google developer console
-## Run and engoy
