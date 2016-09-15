@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\ASUS S550C\Desktop\myphonelocationswebsite</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/DBManager.dll">
+      <publishTime>09/14/2016 13:19:12</publishTime>
+    </File>
+    <File Include="bin/FLWebServicesC.dll">
+      <publishTime>09/14/2016 15:48:13</publishTime>
+    </File>
+    <File Include="Classes/ClassDiagram1.cd">
+      <publishTime>09/14/2016 13:04:33</publishTime>
+    </File>
+    <File Include="PrivacyPolicy.aspx">
+      <publishTime>01/20/2015 18:44:01</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/14/2016 15:48:14</publishTime>
+    </File>
+    <File Include="WebForm1.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="WebService1.asmx">
+      <publishTime>01/03/2015 00:00:41</publishTime>
+    </File>
+    <File Include="WebService2.asmx">
+      <publishTime>01/25/2015 03:34:07</publishTime>
+    </File>
+    <File Include="WebService3.asmx">
+      <publishTime>09/14/2016 10:35:33</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

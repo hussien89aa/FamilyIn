@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Family Finder</string>
+    <string name="Close"> Close</string>
+    <string name="notify_title">Alert from Family finder</string>
+    <string name="Map_API_Key">AIzaSyBMhTKRPIEm-d_jUgoNX5td8dNj3HBxLGg</string>
+    <string name="banner_ad_unit_id">ca-app-pub-7315471620590850/8198950120</string>
+<string name="Pop_ad_unit_id"> ca-app-pub-7315471620590850/9228311320</string>
+    <string name="NoTrackerList"> You do not have any person to track at this time. Please login with this account by your other devices</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="back"> Back</string>
+    <string name="RateDesc"> Would you like to rate the app?</string>
+</resources>
