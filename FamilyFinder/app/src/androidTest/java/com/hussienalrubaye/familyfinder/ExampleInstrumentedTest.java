@@ -21,6 +21,7 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
+        // assure the the package name
         assertEquals("com.hussienalrubaye.familyfinder", appContext.getPackageName());
     }
 }
