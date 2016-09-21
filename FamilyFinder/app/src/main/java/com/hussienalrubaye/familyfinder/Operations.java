@@ -73,6 +73,8 @@ public class Operations {
                 String provider = locationManager.getBestProvider(criteria, false);
 
                 Location lastKnownLocationGPS = locationManager.getLastKnownLocation(provider); //(LocationManager.GPS_PROVIDER);
+                
+                // Ensure the previous location value
                 if (lastKnownLocationGPS != null) {
                     return lastKnownLocationGPS;
                 } else {
